@@ -148,6 +148,10 @@ ul.flat li {
   margin-left: 0;
 }
 
+ul.indent {
+  list-style-position: inside;
+}
+
 .prevent-collapse {
   min-height: 0.1rem;
 }
@@ -282,7 +286,7 @@ ul {
 
 .collaborators {
   font-size: 15px;
-  margin-left: .9em;
+  margin-left: 1em;
   margin-top: .1em;
 }
 
@@ -297,6 +301,10 @@ ul {
 
 .publications {
   margin-left: -.5em;
+}
+
+.destination {
+  margin-left: 1em;
 }
 
 .code_blog {
