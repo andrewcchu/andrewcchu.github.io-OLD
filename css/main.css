@@ -287,7 +287,6 @@ ul {
 .collaborators {
   font-size: 15px;
   margin-left: 1em;
-  margin-top: .1em;
 }
 
 .year {
@@ -300,11 +299,8 @@ ul {
 }
 
 .publications {
+  font-size: 15px;
   margin-left: -.5em;
-}
-
-.destination {
-  margin-left: 1em;
 }
 
 .code_blog {
